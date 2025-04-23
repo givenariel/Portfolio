@@ -1,0 +1,36 @@
+html{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+body {
+    background-color: black;
+}
+
+.div-navbarContainer {
+    background-color: rgb(56, 56, 56);
+    width: 100%;
+    height: 100px;
+}
+
+.ul-navbar {
+    display: flex;
+    justify-content: right;
+    color: white;
+    background-color: rgb(56, 56, 56);
+}
+
+.li-navbar {
+    border: 1px solid black;
+    list-style-type: none;
+    padding: 20px;
+    margin: 5px;
+}
+
+.div-content {
+    color: white;
+}
+
+.div-footer {
+    color: white;
+}
